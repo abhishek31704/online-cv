@@ -14,14 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Abhishek Kumar
-tagline: 
+tagline: Clean Code Developer
 pic: linkedinpic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: abhishek31704@gmail.com
 phone: 00491608128453
 website: blog.webjeda.com #do not add http://
-
 
 # Tracker
 analytics: UA-83979019-1
