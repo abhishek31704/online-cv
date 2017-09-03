@@ -3,7 +3,6 @@ title: My Resume
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
-
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
@@ -11,10 +10,9 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-5
 #style: styles-6
 
-
 #Profile information
 name: Abhishek Kumar
-tagline: Clean Code Developer
+tagline: Beauty in the Code
 pic: linkedinpic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
